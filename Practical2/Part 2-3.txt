@@ -1,0 +1,17 @@
+Part 2
+1.	b) super
+2.	b) private
+3.	b) Packages
+4.	c) import pkg.*
+5.	c) charAt()
+6.	d) length()
+Part 3
+1.	state and behavior.
+2.	instance variables.
+3.	methods
+4.	encapsulation
+5.	class
+6.	superclass, subclass, extends
+7.	interface
+8.	package
+9.	Interface
